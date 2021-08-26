@@ -6,7 +6,7 @@ public class  main {
         isBorring = true;
 
         if(isBorring){
-            System.out.println("joke");
+            System.out.println("Как понять, что вы одиноки? Дождитесь августа. Если вам никто не предложил кабачок - вы одиноки.");
         }
 
     }
